@@ -23,3 +23,26 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bionet930&layout=compact&langs_count=16&theme=dark"/>
   
 </div>
+
+  ##
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Hugo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center" alt="Hugo-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+    <img align="center" alt="Hugo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+    <img align="center" alt="Hugo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    
+  </div>
+  
+  ##
+  
+  <div>
+    <a href = "mailto:bionet930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/hugomunoz7341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+  </div>
+  
+  ##
+  
+  
