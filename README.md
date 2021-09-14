@@ -28,10 +28,10 @@ Here are some ideas to get you started:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Hugo-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-    <img align="center" alt="Hugo-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-    <img align="center" alt="Hugo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-    <img align="center" alt="Hugo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-    <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Hugo-Visual" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+    <img align="center" alt="Hugo-Android" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+    <img align="center" alt="Hugo-Firebase" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img align="center" alt="Hugo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     
   </div>
   
