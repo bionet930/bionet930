@@ -41,9 +41,16 @@ Here are some ideas to get you started:
   
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=Sin_CopyRight-El_Dorado"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do"/>
   </div>
   
+  
+  ##
+  
+  ### Respos de Trabajo Colaborativo 👋
+  
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do"/>
+  </div>
   
   ##
   
