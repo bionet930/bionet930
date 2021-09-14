@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ### Respos Creados 👋
   
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=github-readme-stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=Sin_CopyRight-El_Dorado"/>
     
   </div>
   
