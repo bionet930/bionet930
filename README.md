@@ -44,9 +44,13 @@
   ### Respos de Trabajo Colaborativo 👨‍💻 👩‍💻
   
   <div>
+    <a href="https://github.com/bionet930/TurIT-1_ra_Etapa">
+       <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-1_ra_Etapa&theme=dark&langs_count=16&count_private=true"/>
+  </div>
+      
+  <div>
     <a href="https://github.com/WEST-IT/Proy-2-do-Bit">
-       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-1_ra_Etapa&theme=dark&langs_count=16&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=16&count_private=true"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=16&count_private=true"/>
   </div>
   
   ##
