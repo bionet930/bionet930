@@ -45,7 +45,8 @@
   
   <div>
     <a href="https://github.com/WEST-IT/Proy-2-do-Bit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=16&count_private=true"/>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-1_ra_Etapa&theme=dark&langs_count=16&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=16&count_private=true"/>
   </div>
   
   ##
