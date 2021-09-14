@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ### Respos Creados 👋
   
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=Sin_CopyRight-El_Dorado"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=Sin_CopyRight-El_Dorado&theme=dark&langs_count=14"/>
   </div>
   
   
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   ### Respos de Trabajo Colaborativo 👋
   
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=16&count_private=true"/>
   </div>
   
   ##
