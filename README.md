@@ -1,7 +1,7 @@
 ### Hola! Mi nombre es Hugo Muñoz 👋
 
 - 🔭 Actualmente trabajando como Analista Funcional y SysAdmin 🧙‍♂️
-- 🌱 Aprendiendo React, JS, Node.JS 🦾
+- 🌱 Aprendiendo React, JS, Node.JS, Dart y Flutter 🦾
 
 ##
 
