@@ -37,6 +37,8 @@
     <a href="https://github.com/bionet930/Sin_CopyRight-El_Dorado">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=Sin_CopyRight-El_Dorado&theme=dark&langs_count=12"/>
   </div>
+    
+    - Proyecto realizado en Visual .NET y MySql como motor de DB, desarrollado para brindarle una solución a un pequeño supermercado controlando usuarios, mercaderia, proveedores, stock, venta, facturación y control gráfico de ventas.
   
   
   ##
@@ -47,12 +49,16 @@
     <a href="https://github.com/bionet930/TurIT-1_ra_Etapa">
        <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-1_ra_Etapa&theme=dark&langs_count=14&count_private=true"/>
   </div>
+    
+    - Proyecto realizado en Python con el FrameWork de Kivy, Kivy-Garden usando Sqlite, compilando en una APP para android con algunas funcionalidades. Sobre una primera etapa de la carrera de Analista en TI.
       
   <div>
     <a href="https://github.com/WEST-IT/Proy-2-do-Bit">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=14&count_private=true"/>
   </div>
   
+    - Proyecto realizado en 100% en JAVA usando Firebase como gestor de inicio de sesion y DB no-SQL, apoyado en varias librerias para darle mayor funcionalidad. Se creo una APP pensada en el turismo, con posibilidad de canjear premios por visitar atractivos turisticos y completar formularios con información útil, con una interfaz para el comercio que canjea productos, lectura de QR's y envios masivos de Notificaciones segun suscripciones de los usuarios.
+    
   ##
   
   ### Contacto 📧
