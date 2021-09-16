@@ -57,7 +57,7 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=bionet930&repo=TurIT-Proyecto_Bit_2_do&theme=dark&langs_count=14&count_private=true"/>
   </div>
   
-    - Proyecto realizado en 100% en JAVA usando Firebase como gestor de inicio de sesion y DB no-SQL, apoyado en varias librerias para darle mayor funcionalidad. Se creo una APP pensada en el turismo, con posibilidad de canjear premios por visitar atractivos turisticos y completar formularios con información útil, con una interfaz para el comercio que canjea productos, lectura de QR's y envios masivos de Notificaciones segun suscripciones de los usuarios.
+    - Proyecto realizado 100% en JAVA usando Firebase como gestor de inicio de sesion y DB no-SQL, apoyado en varias librerias para darle mayor funcionalidad. Se creo una APP pensada en el turismo, con posibilidad de canjear premios por visitar atractivos turisticos y completar formularios con información útil, con una interfaz para el comercio que canjea productos, lectura de QR's y envios masivos de Notificaciones segun suscripciones de los usuarios.
     
   ##
   
