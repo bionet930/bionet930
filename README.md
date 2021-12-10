@@ -31,7 +31,7 @@
   
   ##
   
-  ### Respos Creados 👷‍♂️
+  ### Repos Creados 👷‍♂️
   
   <div>
     <a href="https://github.com/bionet930/Sin_CopyRight-El_Dorado">
@@ -43,7 +43,7 @@
   
   ##
   
-  ### Respos de Trabajo Colaborativo 👨‍💻 👩‍💻
+  ### Repos de Trabajo Colaborativo 👨‍💻 👩‍💻
   
   <div>
     <a href="https://github.com/bionet930/TurIT-1_ra_Etapa">
